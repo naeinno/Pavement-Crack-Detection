@@ -1,5 +1,3 @@
 .ipynb_checkpoints/
-kaggle/
-my_dir/
-*.png
-*.h5
+__pycache__/
+*.py[cod]
